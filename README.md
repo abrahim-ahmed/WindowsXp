@@ -1,10 +1,10 @@
 ![Photo](./Folders/windowsXpProLogo.png)
 
+# <img align="left" alt="Visual Studio Code" width="70px" src="./Folders/duck.jpg" style="padding-right:10px;" />WindowsXp
 
-# WindowsXp
 activate all versions of windows xp without needing a product key 🗝 
 
-Windows XP is my second favorite operator system it's iconic and till this time the windows xp is still be used.
+Windows XP is my second favorite operator system. It's iconic and compatibility and is till this time the windows xp is still be used in manufacturing,healthcare,military, banking,and you name it.
 
 
 
