@@ -46,10 +46,22 @@ You'll see the "OOBETimer" click it. Now you entered to the "edit binary value".
 
 Delete the old "value data" and copy the "value data" in the picture below. 
 
-![Photo](./Folders/Edit_Binary_Value_P2.png)
+![Photo](./Folders/EditBinaryValueP2.png)
 
-It start with FF in the Value data thin click "OK".
+Start with FF in the Value data thin click "OK".
 
+Now 'Right-click' the "WPAEvents" folder thin click the "" it'll open up the "Permissions For WPAEvents".
+
+In the "Permissions For WPAEvents" is "security group or user nameS" click the "SYSTEM" thin "Permissions For SYSTEM". Deny Full CONTROL system and Read to do wit 'check the two boxes to Deny'✅ like the pictures below.
+
+![Photo](./Folders/PermissionsforWPAEvents.png)
+
+And click 'OK'.
+
+ # Congratulations you're Windows Xp is activated ✨
+
+ 
+![Photo](./Folders/WindowsProductActivationP2.png)
 
 
 
