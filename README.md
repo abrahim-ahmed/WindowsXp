@@ -28,7 +28,7 @@ This will open the Registry Editor where you can view and modify system settings
 
 Now to find the "WPAEvents" folder Navigate to the following path:
  
----------------------------------------------------{ Registry Editor }------------------------------------------------------
+---------------------------------------------------{ Registry Editor }------------------------------------------------------------
   
     📂 HKEY_LOCAL_MACHINE
                          ↳📂\SOFTWARE
