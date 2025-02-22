@@ -64,6 +64,12 @@ And **`click OK`**.
  
 ![Photo](./Folders/WindowsProductActivationP2.png)
 
+# ⚠ Important to now
+If you have a problem logon because of this copy of windows must be activated with Microsoft but you already activated windows.
 
+
+![Photo](./Folders/theCopyOfWindowsP1.png)
+
+🔧The Fix in this link 🔗 
 
 
