@@ -64,12 +64,16 @@ And **`click OK`**.
  
 ![Photo](./Folders/WindowsProductActivationP2.png)
 
-# ⚠ Important to now
+# ⚠ Important to now!
 If you have a problem logon because of this copy of windows must be activated with Microsoft but you already activated windows.
 
 
 ![Photo](./Folders/theCopyOfWindowsP1.png)
 
-🔧The Fix in this link 🔗 
+🔧The Fix in this link: (https://community.spiceworks.com/t/how-to-fix-windows-xp-activation-after-a-windows-xp-repair/1006154) 🔗
+
+If you have difficulty following the steps.
+
+contact me and I will publish step-by-step to how to fix windows stuck in logon loop🔁.  
 
 
